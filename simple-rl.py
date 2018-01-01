@@ -1,3 +1,11 @@
+# @Author: Jyothir Aditya <laughing_boy>
+# @Date:   2018-01-01T23:11:33+05:30
+# @Filename: simple-rl.py
+# @Last modified by:   jyothiraditya
+# @Last modified time: 2018-01-01T23:35:22+05:30
+
+
+
 import argparse
 import gym
 import numpy as np
